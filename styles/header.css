@@ -1,0 +1,54 @@
+header{
+    width: 100vw;
+    height: 17vh;
+
+    background-color:gold;
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 2vw;
+}
+
+.secao-header{
+    width: 40%;
+    height: 80%;
+
+    background-color :gold(0, 0, 0) rgd(216,116,116);
+}
+
+#logo-profisão{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#botoes-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .botao{
+        width: 28%;
+        height: 56%;
+
+        background-color :var(--corgold);
+}     
+#img{
+width: 6vw;
+height: 6vw;
+
+margin: 0 2% 0 0;
+
+background-color: var(--corgold);
+}
+
+#profisão{
+   font-size: 2vw;
+   
+}

@@ -1,0 +1,19 @@
+@import url(./header.css);
+@import url(./main.css);
+@import url(./footer.css);
+
+ @import url('https//fonts.googleleapis.com/css2?family=jockey One&family=ju');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --corPrimaria:gold;
+    --corSegundaria:gold;
+    --corTerciaria:gold;
+
+    --fontPrincipal:"Julius Sans One";
+    --fontSecundaria:"Jockey One";
+}
