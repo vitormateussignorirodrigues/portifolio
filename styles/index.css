@@ -10,9 +10,8 @@ body{
 }
 
 :root{
-    --corPrimaria:gold;
-    --corSegundaria:gold;
-    --corTerciaria:gold;
+    --corPrimaria:red;
+    --corSegundaria:black;
 
     --fontPrincipal:"Julius Sans One";
     --fontSecundaria:"Jockey One";

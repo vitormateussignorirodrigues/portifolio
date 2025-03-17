@@ -1,4 +1,4 @@
-footer{
+footer {
     width: 100vw;
     height: 11vh;
 
@@ -8,5 +8,18 @@ footer{
 
     z-index: -1;
 
-    background-color: gold;
+    background-color: red
+}
+
+footer button {
+
+    margin: 0 0.5vw;
+
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+
+}
+
+.botão-footer:hover {
+    transform: scale(1.3);
 }

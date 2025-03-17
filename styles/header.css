@@ -2,7 +2,7 @@ header{
     width: 100vw;
     height: 17vh;
 
-    background-color:gold;
+    background-color:red;
 
     display: flex;
     flex-direction: row;
@@ -17,7 +17,7 @@ header{
     width: 40%;
     height: 80%;
 
-    background-color :gold(0, 0, 0) rgd(216,116,116);
+    background-color:black(0, 0, 0) rgd(216,116,116);
 }
 
 #logo-profisão{
@@ -37,7 +37,7 @@ header{
         width: 28%;
         height: 56%;
 
-        background-color :var(--corgold);
+        background-color :var(--cordimgray);
 }     
 #img{
 width: 6vw;
@@ -45,7 +45,7 @@ height: 6vw;
 
 margin: 0 2% 0 0;
 
-background-color: var(--corgold);
+background-color: var(--cordimgray);
 }
 
 #profisão{
